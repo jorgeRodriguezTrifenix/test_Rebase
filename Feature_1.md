@@ -1,4 +1,4 @@
-# Feature 2
+# Feature 1
 ---
 <<<<<<< Feature_1
 Realizando la primera feature del test
