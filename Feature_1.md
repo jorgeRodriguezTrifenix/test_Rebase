@@ -1,3 +1,3 @@
-# Feature 1
+# Feature 2
 ---
 Realizando la primera feature del test
